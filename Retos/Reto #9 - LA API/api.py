@@ -4,7 +4,9 @@ url = "https://balldontlie.io/api/v1/players"
 
 response = requests.get(url)
 
+data = response.json()["data"]
 
-for players in response.json()["data"]:
-    consulta = [players["last_name"], players["name"]]
-    print(consulta)
+for players in data:
+    player_name = players["last_name"]
+    team_name = players["team"]["name"]
+    print(f'{player_name} - {team_name}')
