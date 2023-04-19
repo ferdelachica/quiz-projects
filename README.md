@@ -48,7 +48,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Consulta las reglas del juego si tienes dudas sobre el sistema de puntos.   
  */
 ```
-* **#3** - [`EL GENERADOR DE CONTRASEÑAS`](./Retos/)
+* **#3** - [`EL GENERADOR DE CONTRASEÑAS`](./Retos/Reto%20%233%20-%20EL%20GENERADOR%20DE%20CONTRASEÑAS)
 ```
 /*
  * Escribe un programa que sea capaz de generar contraseñas de forma aleatoria.
