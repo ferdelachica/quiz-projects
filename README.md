@@ -60,7 +60,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * (Pudiendo combinar todos estos parámetros entre ellos)
  */
 ```
-* **#4** - 23/01/23 | Media | [`PRIMO, FIBONACCI Y PAR`](./Retos/)
+* **#4** - [`PRIMO, FIBONACCI Y PAR`](./Retos/)
 ```
 /*
  * Escribe un programa que, dado un número, compruebe y muestre si es primo, fibonacci y par.
