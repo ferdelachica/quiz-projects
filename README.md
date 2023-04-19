@@ -6,6 +6,16 @@
 Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
 * **#0** - 26/12/22 | Fácil | [`EL FAMOSO "FIZZ BUZZ"`](./Retos/Reto%20%230%20-%20FIZZ%20BUZZ)]
+
+/*
+ * Escribe un programa que muestre por consola (con un print) los
+ * números de 1 a 100 (ambos incluidos y con un salto de línea entre
+ * cada impresión), sustituyendo los siguientes:
+ * - Múltiplos de 3 por la palabra "fizz".
+ * - Múltiplos de 5 por la palabra "buzz".
+ * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+ */
+
 * **#1** - 02/01/23 | Fácil | [`EL "LENGUAJE HACKER"`](./Retos/Reto%20%231%20-%20LENGUAJE%20HACKER)]
 * **#2** - 09/01/23 | Media | [`EL PARTIDO DE TENIS`](./Retos/Reto%20%232%20-%20EL%20PARTIDO%20DE%20TENIS%20%5BMedia%5D)]
 * **#3** - 16/01/23 | Media | [`EL GENERADOR DE CONTRASEÑAS`](./Retos/Reto%20%233%20-%20EL%20GENERADOR%20DE%20CONTRASEÑAS%20%5BMedia%5D)]
