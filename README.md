@@ -27,7 +27,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  *   (Usa la primera opción de cada transformación. Por ejemplo "4" para la "a")
  */
 ```
-* **#2** - [`EL PARTIDO DE TENIS`](./Retos/Reto%20%232%20-%20EL%20PARTIDO%20DE%20TENIS%20%5BMedia%5D)
+* **#2** - [`EL PARTIDO DE TENIS`](./Retos/Reto%20%232%20-%20EL%20PARTIDO%20DE%20TENIS)
 ```
 /*
  * Escribe un programa que muestre cómo transcurre un juego de tenis y quién lo ha ganado.
@@ -48,7 +48,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Consulta las reglas del juego si tienes dudas sobre el sistema de puntos.   
  */
 ```
-* **#3** - [`EL GENERADOR DE CONTRASEÑAS`](./Retos/Reto%20%233%20-%20EL%20GENERADOR%20DE%20CONTRASEÑAS%20%5BMedia%5D)
+* **#3** - [`EL GENERADOR DE CONTRASEÑAS`](./Retos/)
 ```
 /*
  * Escribe un programa que sea capaz de generar contraseñas de forma aleatoria.
@@ -60,7 +60,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * (Pudiendo combinar todos estos parámetros entre ellos)
  */
 ```
-* **#4** - 23/01/23 | Media | [`PRIMO, FIBONACCI Y PAR`](./Retos/Reto%20%234%20-%20PRIMO,%20FIBONACCI%20Y%20PAR%20%5BMedia%5D)
+* **#4** - 23/01/23 | Media | [`PRIMO, FIBONACCI Y PAR`](./Retos/)
 ```
 /*
  * Escribe un programa que, dado un número, compruebe y muestre si es primo, fibonacci y par.
@@ -69,7 +69,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Con el número 7, nos dirá: "7 es primo, no es fibonacci y es impar"
  */
 ```
-* **#5** - [`PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK`](./Retos/Reto%20%236%20-%20PIEDRA,%20PAPEL,%20TIJERA,%20LAGARTO,%20SPOCK%20%5BMedia%5D)
+* **#5** - [`PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK`](./Retos/)
 ```
 /*
  * Crea un programa que calcule quien gana más partidas al piedra,
@@ -82,7 +82,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Debes buscar información sobre cómo se juega con estas 5 posibilidades.
  */
 ```
-* **#6** - [`EL SOMBRERO SELECCIONADOR`](./Retos/Reto%20%237%20-%20EL%20SOMBRERO%20SELECCIONADOR%20%5BMedia%5D)
+* **#6** - [`EL SOMBRERO SELECCIONADOR`](./Retos/)
 ```
 /*
  * Crea un programa que simule el comportamiento del sombrero selccionador del
@@ -95,7 +95,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  *   Por ejemplo, en Slytherin se premia la ambición y la astucia.
  */
 ```
-* **#7** - [`EL GENERADOR PSEUDOALEATORIO`](./Retos/Reto%20%238%20-%20EL%20GENERADOR%20PSEUDOALEATORIO%20%5BMedia%5D)
+* **#7** - [`EL GENERADOR PSEUDOALEATORIO`](./Retos/)
 
 ```
 /*
@@ -105,7 +105,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * Es más complicado de lo que parece...
  */
 ```
-* **#8** - [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`](./Retos/Reto%20%239%20-%20HETEROGRAMA,%20ISOGRAMA%20Y%20PANGRAMA%20%5BFácil%5D)
+* **#8** - [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`](./Retos/)
 ```
 /*
  * Crea 3 funciones, cada una encargada de detectar si una cadena de
@@ -113,7 +113,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Debes buscar la definición de cada uno de estos términos.
  */
 ```
-* **#9** - [`LA API`](./Retos/Reto%20%2310%20-%20LA%20API%20%5BMedia%5D)
+* **#9** - [`LA API`](./Retos/)
 ```
 /*
  * Llamar a una API es una de las tareas más comunes en programación.
@@ -125,7 +125,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * https://github.com/public-apis/public-apis
  */
 ```
-* **#10** - [`URL PARAMS`](./Retos/Reto%20%2311%20-%20URL%20PARAMS%20%5BFácil%5D)
+* **#10** - [`URL PARAMS`](./Retos/)
 ```
 /*
  * Dada una URL con parámetros, crea una función que obtenga sus valores.
@@ -135,14 +135,14 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * los parámetros serían ["2023", "0"]
  */
 ```
-* **#11** - [`VIERNES 13`](./Retos/Reto%20%2312%20-%20VIERNES%2013%20%5BFácil%5D)
+* **#11** - [`VIERNES 13`](./Retos/)
 ```
 /*
  * Crea una función que sea capaz de detectar si existe un viernes 13 en el mes y el año indicados.
  * - La función recibirá el mes y el año y retornará verdadero o falso.
  */
 ```
-* **#12** - [`ADIVINA LA PALABRA`](./Retos/Reto%20%2313%20-%20ADIVINA%20LA%20PALABRA%20%5BMedia%5D)
+* **#12** - [`ADIVINA LA PALABRA`](./Retos/)
 ```
 /*
  * Crea un pequeño juego que consista en adivinar palabras en un número máximo de intentos:
@@ -159,7 +159,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * - Puedes utilizar las palabras que quieras y el número de intentos que consideres
  */
 ```
-* **#13** - [`OCTAL Y HEXADECIMAL`](./Retos/Reto%20%2314%20-%20OCTAL%20Y%20HEXADECIMAL%20%5BFácil%5D)
+* **#13** - [`OCTAL Y HEXADECIMAL`](./Retos/)
 ```
 /*
  * Crea una función que reciba un número decimal y lo trasforme a Octal
@@ -168,7 +168,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * realicen esas operaciones directamente.
  */
 ```
-* **#14** - [`AUREBESH`](./Retos/Reto%20%2315%20-%20AUREBESH%20%5BFácil%5D)
+* **#14** - [`AUREBESH`](./Retos/)
 ```
 /*
  * Crea una función que sea capaz de transformar Español al lenguaje básico del universo
@@ -181,7 +181,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
  * ¡Que la fuerza os acompañe!
  */
 ```
-* **#15** - [`LA ESCALERA`](./Retos/Reto%20%2316%20-%20LA%20ESCALERA%20%5BMedia%5D)
+* **#15** - [`LA ESCALERA`](./Retos/)
 ```
 /*
  * Crea una función que dibuje una escalera según su número de escalones.
